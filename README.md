@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitin-chaturvedi
-- 👀 I’m interested in Cloud Native web development using technologies like Angular, Spring Boot(Java), NodeJS, Kafka, Redis, MongoDB, MySQL, GCP, AWS etc
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Cloud Native Web development using Angular, NodeJs, Spring Boot
+- 👀 I work in cloud native web development using technologies like Spring Boot(Java), NodeJS, Kafka, Redis, MongoDB, MySQL, GCP, AWS etc
+- I am a full stack developer with working knowledge of Angular and React
+- I work with devops mindset you build it you run it
 - 📫 How to reach me Linked In :: [linkedin] Xing :: [xing]
                   
 
